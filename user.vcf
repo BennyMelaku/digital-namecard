@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Melaku;Benny;;;
-FN: Benny Melaku 
+N:מלקו;אתי;;;
+FN: אתי מלקו
 ORG:None;
-TITLE:Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:bennymelaku@gmail.com
+TITLE:אחות מוסמכת\nמטפלת בדיקור סיני, שייאצו, כוסות רוח ואבנים חמות
+EMAIL;type=INTERNET;type=WORK;type=pref:etimelku@gmail.com
 TEL;type=WORK;type=VOICE:0542131980
-item1.ADR;type=WORK;type=pref:;;הרצל 77\nראשון לציון\
+item1.ADR;type=WORK;type=pref:;;הרצל 77\nראשון לציון\;
 item1.X-ABADR:sg
-item2.URL;type=pref:ynet.co.il
+item2.URL;type=pref:https://bennymelaku.github.io/digital-namecard/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
